@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Assignment2","c":"Transcript","l":"buildStudentArray()"},{"p":"Assignment2","c":"Transcript","l":"printTranscript(ArrayList<Transcript.Student>)","url":"printTranscript(java.util.ArrayList)"},{"p":"Assignment2","c":"Transcript","l":"Transcript(String, String)","url":"%3Cinit%3E(java.lang.String,java.lang.String)"}]
